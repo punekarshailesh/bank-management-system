@@ -1,4 +1,4 @@
-# Bank_Management_System
+# Bank-Management-System
 <ul>
   <li>
       A C++ Program that keeps track of a person's bank account. 
